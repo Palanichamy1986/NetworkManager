@@ -24,6 +24,7 @@
 		3DC2004C21CA876E006423B1 /* MovieListTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC2004B21CA876E006423B1 /* MovieListTableViewCell.swift */; };
 		B1D93D08CB90EAD097368048 /* Pods_Movie.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2ED9AD1108E25772BFB31222 /* Pods_Movie.framework */; };
 		CE48DB4A21CC7F9A002F426A /* MovieDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE48DB4921CC7F9A002F426A /* MovieDetailViewController.swift */; };
+		E635749921DE6D24000CEDDC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E635749821DE6D24000CEDDC /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +49,7 @@
 		8ABA45E790D034C63427C44B /* Pods-Movie.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Movie.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Movie/Pods-Movie.debug.xcconfig"; sourceTree = "<group>"; };
 		BE7E83E70BB0E325FFE416CB /* Pods-Movie.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Movie.release.xcconfig"; path = "Pods/Target Support Files/Pods-Movie/Pods-Movie.release.xcconfig"; sourceTree = "<group>"; };
 		CE48DB4921CC7F9A002F426A /* MovieDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailViewController.swift; sourceTree = "<group>"; };
+		E635749821DE6D24000CEDDC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 			children = (
 				3D23D5C821CD1CA900E2D0AD /* Constants.swift */,
 				3DC2003721CA73C4006423B1 /* AppDelegate.swift */,
+				E635749821DE6D24000CEDDC /* ViewController.swift */,
 				3D4DF61821CBACB500DA1539 /* Models */,
 				3D4DF60921CBA93B00DA1539 /* NetworkLayer */,
 				3DC2004921CA873E006423B1 /* Controller */,
@@ -269,6 +272,7 @@
 				3D4DF61521CBAABA00DA1539 /* Result.swift in Sources */,
 				3DC2003A21CA73C4006423B1 /* MovieListViewController.swift in Sources */,
 				3D4DF61121CBAA2A00DA1539 /* NetworkError.swift in Sources */,
+				E635749921DE6D24000CEDDC /* ViewController.swift in Sources */,
 				CE48DB4A21CC7F9A002F426A /* MovieDetailViewController.swift in Sources */,
 				3DC2003821CA73C4006423B1 /* AppDelegate.swift in Sources */,
 				3D4DF60B21CBA97400DA1539 /* Reachability.swift in Sources */,
